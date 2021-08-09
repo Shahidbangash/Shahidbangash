@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi, I'm Shahid
+<br />
+ Contact me on:
+ <br />
+<a href="https://www.linkedin.com/in/shahid-bangash-320685158/">
+  <img align="left" alt="Shahid's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+</a>
+<br />
+<br />
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=Shahidbangash&theme=dark" />
+<br/>
 
-<!--
-**Shahidbangash/Shahidbangash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
 
-Here are some ideas to get you started:
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="35px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Frameworks:
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">
+
+<br />
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shahidbangash&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>
+
+
