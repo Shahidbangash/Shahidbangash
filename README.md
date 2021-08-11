@@ -1,6 +1,7 @@
 # Hi, I'm Shahid
+I specialize in HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, SASS, Flutter , and a whole host of other technologies, platforms, and libraries. Whatever your needs are, I will find a solution that fits it.
 ### Have a custom project ?
-### Hire me on:
+#### Hire me on:
 <br/>
 <a href="https://www.fiverr.com/expertfullstack">
   <img align="center" alt="Shahid's Fiverr" width="50px" src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/08/fiverr-logo-2.png" />
