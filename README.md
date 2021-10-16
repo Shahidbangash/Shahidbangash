@@ -5,7 +5,7 @@
 
 <h3 align='center'><i>Stay awesome!</i></h3>
 
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=shahidBangash&label=Views&color=blue&style=plastic" alt="RegNex" /> </a>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=shahidBangash&label=Views&color=blue&style=plastic" alt="Shahid" /> </a>
 <br/>
 <br/>
 Ask me anything about...
