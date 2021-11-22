@@ -73,6 +73,6 @@ I specialize in HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, SASS, Flutter , a
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shahidbangash&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>
 
-<a href="https://github.com/RegNex">
+<a href="https://github.com/ShahidBangash">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidBangash&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
