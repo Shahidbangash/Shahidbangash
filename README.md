@@ -7,22 +7,6 @@
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=shahidBangash&label=Views&color=blue&style=plastic" alt="Shahid" /> </a>
 <br/>
-<br/>
-Ask me anything about...
-<br/>
-
-
-<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/>  
-<img src='https://img.shields.io/badge/reactjs-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/html-%2300ADD8.svg?&style=for-the-badge&logo=html5&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/nodejs-%2300ADD8.svg?&style=for-the-badge&logo=node.Js&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/git-%2300ADD8.svg?&style=for-the-badge&logo=git&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/firebase-%2300ADD8.svg?&style=for-the-badge&logo=firebase&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/mongodb-%2300ADD8.svg?&style=for-the-badge&logo=mongodb&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/bootstrap-%2300ADD8.svg?&style=for-the-badge&logo=bootstrap&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/css-%2300ADD8.svg?&style=for-the-badge&logo=css3&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/Docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/aws-%2300ADD8.svg?&style=for-the-badge&logo=aws&logoColor=white' height='25'/> 
 
 ## About Me
 
