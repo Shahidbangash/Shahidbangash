@@ -53,8 +53,11 @@ Developer with a passion for Flutter, creating diverse, user-centric mobile appl
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shahidbangash&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>
 
-<a href="https://github.com/ShahidBangash">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidBangash&layout=compact&theme=dracula&count_private=true&langs_count=10" />
-</a>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahidBangash&theme=default" alt="GitHub Streak Stats">
+  </a>
+</p>
 
 ---
