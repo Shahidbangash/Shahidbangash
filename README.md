@@ -2,14 +2,16 @@
 
 ![Shahid's Banner](./shahidbangash-banner.png)
 
-<h1>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2>Welcome, I'm Shahid</h2>
-<h3><i>Stay awesome!</i></h3>
-<img src="https://komarev.com/ghpvc/?username=shahidBangash&label=Views&color=blue&style=plastic" alt="Shahid's Profile Views" />
+# :star2: Hello there! :star2: <img src="./wave-animated.gif" width="30px">
+## :fire: Welcome, I'm Shahid :fire:
+### :sparkles: _Stay awesome!_ :sparkles:
+
+[Profile views](https://gpvc.arturio.dev/shahidBangash)
 
 </div>
 
 ---
+
 
 
 ## 🙋‍♂️ About Me 
