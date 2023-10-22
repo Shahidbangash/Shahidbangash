@@ -1,11 +1,16 @@
 <div align="center">
+
+![Shahid's Banner](./shahidbangash-banner.png)
+
 <h1>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2>Welcome, I'm Shahid</h2>
 <h3><i>Stay awesome!</i></h3>
-<img src="https://komarev.com/ghpvc/?username=shahidBangash&label=Views&color=blue&style=plastic" alt="Shahid's Profile Views" /> 
+<img src="https://komarev.com/ghpvc/?username=shahidBangash&label=Views&color=blue&style=plastic" alt="Shahid's Profile Views" />
+
 </div>
 
 ---
+
 
 ## 🙋‍♂️ About Me 
 
