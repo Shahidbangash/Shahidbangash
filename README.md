@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shahid's Banner](./shahidbangash-banner.png)
+![Shahid's Banner](./cuebytes-banner-stylized-flow-v4.svg)
 
 # 👋 Hello, I'm Shahid! 
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396">
+  <!-- Background -->
+  <rect width="1584" height="396" fill="#4ADE80"/>
+  
+  <!-- App icons (simplified) -->
+  <g transform="translate(20, 20)">
+    <rect width="60" height="60" rx="15" fill="#121212" opacity="0.8"/>
+    <rect y="70" width="60" height="60" rx="15" fill="#121212" opacity="0.8"/>
+    <rect x="70" width="60" height="60" rx="15" fill="#121212" opacity="0.8"/>
+    <rect x="70" y="70" width="60" height="60" rx="15" fill="#121212" opacity="0.8"/>
+  </g>
+  
+  <!-- Testimonials with stepped layout and multi-line text -->
+  <g transform="translate(300, 40)">
+    <text font-family="Arial, sans-serif" font-size="24" fill="#121212">★★★★★</text>
+    <text y="35" font-family="Arial, sans-serif" font-size="18" fill="#121212">
+      <tspan x="0" dy="0">"This dude knows about stripe. We had pretty</tspan>
+      <tspan x="0" dy="25">complex stripe implementation (custom flow)</tspan>
+      <tspan x="0" dy="25">and he managed that well."</tspan>
+    </text>
+    
+    <text x="60" y="130" font-family="Arial, sans-serif" font-size="24" fill="#121212">★★★★★</text>
+    <text x="60" y="165" font-family="Arial, sans-serif" font-size="18" fill="#121212">
+      <tspan x="60" dy="0">"He's professional in mobile app development</tspan>
+      <tspan x="60" dy="25">because he always give me the best and knows</tspan>
+      <tspan x="60" dy="25">how to communicate well"</tspan>
+    </text>
+    
+    <text x="120" y="260" font-family="Arial, sans-serif" font-size="24" fill="#121212">★★★★★</text>
+    <text x="120" y="295" font-family="Arial, sans-serif" font-size="18" fill="#121212">
+      <tspan x="120" dy="0">"He's one of my favorite developer out there</tspan>
+      <tspan x="120" dy="25">he help me with my projects. When it come to</tspan>
+      <tspan x="120" dy="25">communication he's the best"</tspan>
+    </text>
+  </g>
+  
+  <!-- Main headline -->
+  <text x="1564" y="100" font-family="Arial, sans-serif" font-size="48" fill="#121212" text-anchor="end" font-weight="bold">Turn ideas into apps</text>
+  <text x="1564" y="160" font-family="Arial, sans-serif" font-size="48" fill="#121212" text-anchor="end" font-weight="bold">in weeks, not months</text>
+  
+  <!-- Subheadline -->
+  <text x="1564" y="220" font-family="Arial, sans-serif" font-size="24" fill="#121212" text-anchor="end">Custom development with no hidden costs</text>
+  
+  <!-- CTA Button -->
+  <rect x="1300" y="260" width="264" height="60" rx="30" fill="#121212"/>
+  <text x="1432" y="300" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Get started for free</text>
+  
+  <!-- Contact info -->
+  <text x="20" y="380" font-family="Arial, sans-serif" font-size="20" fill="#121212">hello@cuebytes.com</text>
+</svg>
